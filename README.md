@@ -4,11 +4,11 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Enzo Reis Francelli, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino pa médio na Escola Técnica Rezende Rammel, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Universidade Veiga de Almeida. Meu foco dentro do mundo da Tecnologia é atuar na interseção entre **engenharia de software e segurança da informação**, com foco em **Application Security (AppSec)**, contribuindo para o desenvolvimento de aplicações que funcionam especialmente em ambientes críticos e corporativos.
+Me chamo Enzo Reis Francelli, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino pa médio na Escola Técnica Rezende Rammel, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Universidade Veiga de Almeida. Meu foco dentro do mundo da Tecnologia é atuar na interseção entre **engenharia de software e segurança da informação**, podendo atuar tanto na area de desenvolvimento quanto na de segurança (**Application Security (AppSec)**), contribuindo para o desenvolvimento de aplicações que funcionam especialmente em ambientes críticos e corporativos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
