@@ -6,7 +6,7 @@
 
 Me chamo Enzo Reis Francelli, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na Escola Técnica Rezende Rammel, onde cursei Técnico em Informática, formação que despertou ainda mais meu interesse pela área de tecnologia. Atualmente, curso Engenharia de Software na Universidade Veiga de Almeida, buscando ampliar meus conhecimentos e construir uma base sólida para minha carreira profissional.
 
-Ao longo da minha formação, venho desenvolvendo conhecimentos em programação, bancos de dados, redes de computadores e sistemas operacionais, além de estudar linguagens como Java, C, C++, C#, #*Python (Foco)*# e SQL, que têm contribuído para fortalecer minha visão técnica sobre desenvolvimento e infraestrutura.
+Ao longo da minha formação, venho desenvolvendo conhecimentos em programação, bancos de dados, redes de computadores e sistemas operacionais, além de estudar linguagens como Java, C, C++, C#, *Python (Foco)* e SQL, que têm contribuído para fortalecer minha visão técnica sobre desenvolvimento e infraestrutura.
 
 ---
 
